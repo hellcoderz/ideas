@@ -1,5 +1,5 @@
 ## Description
-* Memmory Mapped DB
+Memmory Mapped DB
 
 ## Features
 * single file database
