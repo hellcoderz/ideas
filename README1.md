@@ -3,11 +3,11 @@
 ## CLA
 
 * Read the whitepaper: http://numenta.org/resources/HTM_CorticalLearningAlgorithms.pdf
-* 
+
 ## HTM
 
 * get accuanted with HTM code: https://github.com/numenta/nupic
-* 
+
 ## CEPT word SDR
 
 * word SDR is a sparse bitmap representation for a word based on its meaning
